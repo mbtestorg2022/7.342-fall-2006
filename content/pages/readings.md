@@ -90,7 +90,7 @@ Pennisi, Elizabeth. "Molecular Biology: Opening the Way to Gene Activity." _Scie
 
 Marks, Paul A., Richard A. Rifkind, Victoria M. Richon, Ronald Breslow, Thomas Miller, and William K. Kelly. "Histone Deacetylases and Cancer: Causes and Therapies." _Nature Reviews: Cancer_ 1, no. 3 (2001): 194-202.
 
-Downey, Philip. "Profile of C. David Allis." Proceedings of the National Academy of Sciences 103, no. 17 (2006): 6425-6427. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/cgi/reprint/103/17/6425.pdf))
+Downey, Philip. "Profile of C. David Allis." Proceedings of the National Academy of Sciences 103, no. 17 (2006): 6425-6427. ([PDF](http://www.pnas.org/cgi/reprint/103/17/6425.pdf))
 
 
 {{< tdclose >}}
@@ -138,17 +138,17 @@ Heritable Gene Expression via Epigenetic Modification of Chromatin
 
 Nielsen, S. J., R. Schneider, U. M. Bauer, A. J. Bannister, A. Morrison, D. O'Carroll, and R. Firestein, et al. "Rb Targets Histone H3 Methylation and HP1 to Promoters." _Nature_ 412, no. 6846 (2001): 561-565.
 
-Ayyanathan, K., M. S. Lechner, P. Bell, G. G. Maul, D. C. Schultz, Y. Yamada, K. Tanaka, K. Torigoe, and F. J. Rauscher 3rd. "Regulated Recruitment of HP1 to a Euchromatic Gene Induces Mitotically Heritable, Epigenetic Gene Silencing: A Mammalian Cell Culture Model of Gene Variegation." _Genes & Development_ 17, no. 15 (2003): 1855-1869. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.genesdev.org/cgi/reprint/17/15/1855.pdf))
+Ayyanathan, K., M. S. Lechner, P. Bell, G. G. Maul, D. C. Schultz, Y. Yamada, K. Tanaka, K. Torigoe, and F. J. Rauscher 3rd. "Regulated Recruitment of HP1 to a Euchromatic Gene Induces Mitotically Heritable, Epigenetic Gene Silencing: A Mammalian Cell Culture Model of Gene Variegation." _Genes & Development_ 17, no. 15 (2003): 1855-1869. ([PDF](http://www.genesdev.org/cgi/reprint/17/15/1855.pdf))
 
 These papers describe how chromatin modifications can set up a stable transcriptional state that is heritable from mother to daughter cell. Also, they show how this chromatin modification system can be used by important cellular pathways such as the retinoblastoma (Rb) tumor suppressor pathway that governs cell growth.
 
 ### Suggested Readings / Bonus Materials
 
-Jones, Peter A., and Robert Martienssen. "A Blueprint for a Human Epigenome Project: The AACR Human Epigenome Workshop." _Cancer Research_ 65, no. 24 (2005): 11241-11246. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cancerres.aacrjournals.org/cgi/reprint/65/24/11241.pdf))
+Jones, Peter A., and Robert Martienssen. "A Blueprint for a Human Epigenome Project: The AACR Human Epigenome Workshop." _Cancer Research_ 65, no. 24 (2005): 11241-11246. ([PDF](http://cancerres.aacrjournals.org/cgi/reprint/65/24/11241.pdf))
 
-Lund, Anders H., and Maarten van Lohuizen. "Epigenetics and Cancer." _Genes & Development_ 18, no. 19 (2004): 2315-2335. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.genesdev.org/cgi/reprint/18/19/2315.pdf))
+Lund, Anders H., and Maarten van Lohuizen. "Epigenetics and Cancer." _Genes & Development_ 18, no. 19 (2004): 2315-2335. ([PDF](http://www.genesdev.org/cgi/reprint/18/19/2315.pdf))
 
-Fahrner, Jill A., and Stephen B. Baylin. "Heterochromatin: Stable and Unstable Invasions at Home and Abroad." _Genes & Development_ 17, no. 15 (2003): 1805-1812. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.genesdev.org/cgi/reprint/17/15/1805.pdf))
+Fahrner, Jill A., and Stephen B. Baylin. "Heterochromatin: Stable and Unstable Invasions at Home and Abroad." _Genes & Development_ 17, no. 15 (2003): 1805-1812. ([PDF](http://www.genesdev.org/cgi/reprint/17/15/1805.pdf))
 
 Ringrose, Leonie, and Renato Paro. "Gene Regulation: Cycling Silence." _Nature_ 412, no. 6846 (2001): 493-494.
 
@@ -216,7 +216,7 @@ Regulation of Early Development by Polycomb Proteins
 
 Cao, R., L. Wang, H. Wang, L. Xia, H. Erdjument-Bromage, P. Tempst, R. S. Jones, and Y. Zhang. "Role of Histone H3 Lysine 27 Methylation in Polycomb-Group Silencing." _Science_ 298, no. 5595 (2002): 1039-1043.
 
-Bracken, A. P., N. Dietrich, D. Pasini, K. H. Hansen, and K. Helin. "Genome-Wide Mapping of Polycomb Target Genes Unravels their Roles in Cell Fate Transitions." _Genes & Development_ 20, no. 9 (2006): 1123-1136. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.genesdev.org/cgi/reprint/20/9/1123.pdf))
+Bracken, A. P., N. Dietrich, D. Pasini, K. H. Hansen, and K. Helin. "Genome-Wide Mapping of Polycomb Target Genes Unravels their Roles in Cell Fate Transitions." _Genes & Development_ 20, no. 9 (2006): 1123-1136. ([PDF](http://www.genesdev.org/cgi/reprint/20/9/1123.pdf))
 
 These papers show how the H3K27-polycomb system sets up developmental states to allow for appropriate differentiation.
 
@@ -246,17 +246,17 @@ Master Regulators of Differentiation: The Story of MyoD
 
 Davis, R. L., H. Weintraub, and A. B. Lassar. "Expression of a Single Transfected cDNA Converts Fibroblasts to Myoblasts." _Cell_ 51, no. 6 (1987): 987-1000.
 
-Blais, A., M. Tsikitis, D. Acosta-Alvear, R. Sharan, Y. Kluger, and B. D. Dynlacht. "An Initial Blueprint for Myogenic Differentiation." _Genes & Development_ 19, no. 5 (2005): 553-569. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.genesdev.org/cgi/reprint/19/5/553.pdf))
+Blais, A., M. Tsikitis, D. Acosta-Alvear, R. Sharan, Y. Kluger, and B. D. Dynlacht. "An Initial Blueprint for Myogenic Differentiation." _Genes & Development_ 19, no. 5 (2005): 553-569. ([PDF](http://www.genesdev.org/cgi/reprint/19/5/553.pdf))
 
 The first paper describes the strategy used to isolate MyoD, the classic 'master regulatory gene' that has the ability to transdifferentiate a variety of cell and tissue types into muscle. The second is a more recent paper detailing the regulatory circuitry that drives muscle differentiation.
 
 ### Suggested Readings / Bonus Materials
 
-Tapscott, Stephen J. "The Circuitry of a Master Switch: MyoD and the Regulation of Skeletal Muscle Gene Transcription." _Development_ 132, no. 12 (2005): 2685-2695. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://dev.biologists.org/cgi/reprint/132/12/2685.pdf))
+Tapscott, Stephen J. "The Circuitry of a Master Switch: MyoD and the Regulation of Skeletal Muscle Gene Transcription." _Development_ 132, no. 12 (2005): 2685-2695. ([PDF](http://dev.biologists.org/cgi/reprint/132/12/2685.pdf))
 
 Weintraub, Harold, Robert Davis, Stephen Tapscott, Matthew Thayer, Michael Krause, Robert Benezra, and T. Keith Blackwell, et al. "The myoD Gene Family: Nodal Point during Specification of the Muscle Cell Lineage." _Science_ 251, no. 4995 (1991): 761-766.
 
-Weintraub, Harold, Stephen J. Tapscott, Robert L. Davis, Mathew J. Thayer, Mohammed A. Adam, Andrew B. Lassar, and A. Dusty Miller. "Activation of Muscle-Specific Genes in Pigment, Nerve, Fat, Liver, and Fibroblast Cell Lines by Forced Expression of MyoD." Proceedings of the National Academy of Sciences 86, no. 14 (1989): 5434-5438. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB](http://www.pnas.org/cgi/reprint/86/14/5434.pdf))
+Weintraub, Harold, Stephen J. Tapscott, Robert L. Davis, Mathew J. Thayer, Mohammed A. Adam, Andrew B. Lassar, and A. Dusty Miller. "Activation of Muscle-Specific Genes in Pigment, Nerve, Fat, Liver, and Fibroblast Cell Lines by Forced Expression of MyoD." Proceedings of the National Academy of Sciences 86, no. 14 (1989): 5434-5438. ([PDF - 1.6 MB](http://www.pnas.org/cgi/reprint/86/14/5434.pdf))
 
 
 {{< tdclose >}}
